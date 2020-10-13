@@ -1,0 +1,108 @@
+# github.com/coreos/go-systemd v0.0.0-20180202092358-40e2722dffea
+## explicit
+github.com/coreos/go-systemd/daemon
+# github.com/go-openapi/loads v0.19.5
+## explicit
+# github.com/golang/mock v1.1.1
+## explicit
+github.com/golang/mock/gomock
+# github.com/golang/snappy v0.0.1
+github.com/golang/snappy
+# github.com/hashicorp/errwrap v1.0.0
+github.com/hashicorp/errwrap
+# github.com/hashicorp/go-cleanhttp v0.5.1
+github.com/hashicorp/go-cleanhttp
+# github.com/hashicorp/go-multierror v1.1.0
+## explicit
+github.com/hashicorp/go-multierror
+# github.com/hashicorp/go-retryablehttp v0.6.6
+github.com/hashicorp/go-retryablehttp
+# github.com/hashicorp/go-rootcerts v1.0.2
+github.com/hashicorp/go-rootcerts
+# github.com/hashicorp/go-sockaddr v1.0.2
+github.com/hashicorp/go-sockaddr
+# github.com/hashicorp/hcl v1.0.0
+github.com/hashicorp/hcl
+github.com/hashicorp/hcl/hcl/ast
+github.com/hashicorp/hcl/hcl/parser
+github.com/hashicorp/hcl/hcl/scanner
+github.com/hashicorp/hcl/hcl/strconv
+github.com/hashicorp/hcl/hcl/token
+github.com/hashicorp/hcl/json/parser
+github.com/hashicorp/hcl/json/scanner
+github.com/hashicorp/hcl/json/token
+# github.com/hashicorp/vault/api v1.0.5-0.20201012215426-6832cfe55671
+## explicit
+github.com/hashicorp/vault/api
+# github.com/hashicorp/vault/sdk v0.1.14-0.20200519221838-e0cfd64bc267
+github.com/hashicorp/vault/sdk/helper/compressutil
+github.com/hashicorp/vault/sdk/helper/consts
+github.com/hashicorp/vault/sdk/helper/hclutil
+github.com/hashicorp/vault/sdk/helper/jsonutil
+github.com/hashicorp/vault/sdk/helper/parseutil
+github.com/hashicorp/vault/sdk/helper/strutil
+# github.com/inconshreveable/mousetrap v1.0.0
+github.com/inconshreveable/mousetrap
+# github.com/kevinburke/go-bindata v3.21.0+incompatible
+## explicit
+# github.com/konsorten/go-windows-terminal-sequences v1.0.2
+github.com/konsorten/go-windows-terminal-sequences
+# github.com/kubernetes-incubator/reference-docs v0.0.0-20201012180848-a7cd9f697840
+## explicit
+# github.com/kubernetes-sigs/reference-docs v0.0.0-20201012180848-a7cd9f697840
+## explicit
+# github.com/mitchellh/go-homedir v1.1.0
+github.com/mitchellh/go-homedir
+# github.com/mitchellh/mapstructure v1.3.2
+github.com/mitchellh/mapstructure
+# github.com/onsi/ginkgo v1.14.2
+## explicit
+# github.com/onsi/gomega v1.10.3
+## explicit
+# github.com/pierrec/lz4 v2.0.5+incompatible
+github.com/pierrec/lz4
+github.com/pierrec/lz4/internal/xxh32
+# github.com/ryanuber/go-glob v1.0.0
+github.com/ryanuber/go-glob
+# github.com/sirupsen/logrus v1.4.2
+## explicit
+github.com/sirupsen/logrus
+# github.com/spf13/cobra v0.0.3
+## explicit
+github.com/spf13/cobra
+# github.com/spf13/pflag v1.0.5
+github.com/spf13/pflag
+# github.com/tcnksm/ghr v0.13.0
+## explicit
+# golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/ed25519/internal/edwards25519
+golang.org/x/crypto/pbkdf2
+# golang.org/x/net v0.0.0-20201006153459-a7d1128ccaa0
+golang.org/x/net/context
+golang.org/x/net/http/httpguts
+golang.org/x/net/http2
+golang.org/x/net/http2/hpack
+golang.org/x/net/idna
+# golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+# golang.org/x/text v0.3.3
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+# golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1
+golang.org/x/time/rate
+# gopkg.in/square/go-jose.v2 v2.5.1
+gopkg.in/square/go-jose.v2
+gopkg.in/square/go-jose.v2/cipher
+gopkg.in/square/go-jose.v2/json
+gopkg.in/square/go-jose.v2/jwt
+# gopkg.in/yaml.v2 v2.3.0
+## explicit
+gopkg.in/yaml.v2
+# k8s.io/code-generator v0.19.2
+## explicit
+# k8s.io/kube-openapi v0.0.0-20200923155610-8b5066479488
+## explicit

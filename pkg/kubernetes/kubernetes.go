@@ -1,3 +1,4 @@
+//go:generate go run -mod=mod github.com/golang/mock/mockgen -package kubernetes -self_package=. -destination=./kubernetes_mocks_test.go -source=kubernetes.go -build_flags=-mod=mod
 // Copyright Jetstack Ltd. See LICENSE for details.
 package kubernetes
 

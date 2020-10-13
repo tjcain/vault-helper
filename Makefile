@@ -87,7 +87,7 @@ bin/vault:
 depend: bin/mockgen bin/vault
 
 go_generate: depend
-	$(BINDIR)/mockgen -package kubernetes -source=pkg/kubernetes/kubernetes.go > pkg/kubernetes/kubernetes_mocks_test.go
+	go generate ./...
 	sed -i '1s/^/\/\/ Copyright Jetstack Ltd. See LICENSE for details.\n/' pkg/kubernetes/kubernetes_mocks_test.go
 
 # Builder image targets
